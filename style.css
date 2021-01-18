@@ -1,0 +1,53 @@
+.nav-highlight img{
+    height: 60px;
+    width: 100%;
+}
+.Navbar-items{
+    margin-left: 40%;
+}
+h1{
+    font-size: 50px;
+}
+
+.name-highlight{
+color:chocolate;
+}
+.half-width{
+width: 40%;
+float: left;
+margin-left: 5%;
+padding-left: 2%;
+align-content: center;
+}
+.half-width img{
+width: 100%;
+}
+.React{
+    overflow: hidden;
+}
+.icon img{
+    width: 100%;
+}
+.b{
+    float: left;
+}
+
+.a{
+    width: 45%;
+    float: left;
+    height: 550px
+}
+.b{
+    width: 55%;
+    overflow: hidden;
+    height: 550px
+}
+.b img{
+    width: 100%;
+}
+.icon img{
+    width: 100%;
+}
+
+ 
+
